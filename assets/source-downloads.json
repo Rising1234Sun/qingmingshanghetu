@@ -1,0 +1,18 @@
+{
+  "files": [
+    {
+      "path": "assets/fonts/NotoSerifCJKsc-Regular.otf",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Regular.otf",
+      "bytes": 24543080,
+      "sha256": "2a2eae2628df83556c54018c41e20fa532c1b862c5256ae8b3f23feb918d12ca",
+      "license": "OFL-1.1"
+    },
+    {
+      "path": "references/张择端清明上河图原卷.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Alongtheriver_QingMing.jpg",
+      "bytes": 19320386,
+      "sha256": "ad9ccd836874141c985c8db89589d7f6960719eda8281966646eb41a6ed02950",
+      "license": "PD-Art / Public Domain"
+    }
+  ]
+}

@@ -14,6 +14,10 @@ logs/
 *.dmg
 *.mp4
 *.webm
+*.mov
+*.mkv
+*.avi
+*.m4v
 *.wav
 *.aiff
 .env
@@ -24,3 +28,6 @@ logs/
 .pytest_cache/
 .cache/
 .venv-*/
+# 原始大素材按需恢复，本机原文件保留。
+/assets/fonts/NotoSerifCJKsc-Regular.otf
+/references/张择端清明上河图原卷.jpg
