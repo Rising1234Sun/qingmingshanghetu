@@ -1,0 +1,18 @@
+[
+  {
+    "file": "output/showcase/4K重制/入画汴京_两分钟网页实测_4K竖屏_无配乐.mp4",
+    "bytes": 529968470,
+    "sha256": "3286a4cb8cc231e37392ac0b7f673ead47bc808374c910c83a6a1610f3614dc1",
+    "frames": 2880,
+    "decode_errors": "",
+    "metadata": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'output/showcase/4K重制/入画汴京_两分钟网页实测_4K竖屏_无配乐.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.100\n  Duration: 00:02:00.00, start: 0.000000, bitrate: 35331 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 2160x3840 [SAR 1:1 DAR 9:16], 35328 kb/s, 24 fps, 24 tbr, 12288 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.100 libx264\nAt least one output file must be specified\n"
+  },
+  {
+    "file": "output/showcase/4K重制/入画汴京_两分钟网页实测_1080P高清上传版_无配乐.mp4",
+    "bytes": 128917900,
+    "sha256": "a85c91cf41e6ba55e68bfe938898049f92fc395525ad0404cf0a395b6c32634f",
+    "frames": 2880,
+    "decode_errors": "",
+    "metadata": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'output/showcase/4K重制/入画汴京_两分钟网页实测_1080P高清上传版_无配乐.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.100\n  Duration: 00:02:00.00, start: 0.000000, bitrate: 8594 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 8592 kb/s, 24 fps, 24 tbr, 12288 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.100 libx264\nAt least one output file must be specified\n"
+  }
+]

@@ -1,0 +1,358 @@
+{
+  "duration": 120,
+  "fps": 24,
+  "segments": [
+    {
+      "source": "main",
+      "in_seconds": 2,
+      "duration": 5,
+      "start": 0,
+      "end": 5,
+      "title": "一幅可以走进去的长卷",
+      "subtitle": "完整页面与三维场景同时呈现",
+      "label": "页面全貌",
+      "crop": [
+        680,
+        145,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 8.5,
+      "duration": 6,
+      "start": 5,
+      "end": 11,
+      "title": "拖动鼠标，自由环视",
+      "subtitle": "换个角度，观察虹桥与沿岸建筑",
+      "label": "鼠标环视",
+      "crop": [
+        420,
+        140,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 16.5,
+      "duration": 5,
+      "start": 11,
+      "end": 16,
+      "title": "滚轮拉近，细看结构",
+      "subtitle": "舟船、桥板与人物都在三维空间中",
+      "label": "滚轮缩放",
+      "crop": [
+        470,
+        160,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 24.8,
+      "duration": 8,
+      "start": 16,
+      "end": 24,
+      "title": "点击标签，打开简介",
+      "subtitle": "「虹桥」的结构、原画依据与细节",
+      "label": "标签与简介",
+      "crop": [
+        1285,
+        430,
+        620,
+        434
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 43.7,
+      "duration": 5,
+      "start": 24,
+      "end": 29,
+      "title": "汴河漕运，一键抵达",
+      "subtitle": "点击底部景点，镜头移动到河面",
+      "label": "景点切换",
+      "crop": [
+        400,
+        140,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 51.3,
+      "duration": 6,
+      "start": 29,
+      "end": 35,
+      "title": "漕船也有自己的介绍",
+      "subtitle": "查看船体、货物、水波与动画说明",
+      "label": "舟船细节",
+      "crop": [
+        1285,
+        315,
+        620,
+        434
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 101.2,
+      "duration": 6,
+      "start": 35,
+      "end": 41,
+      "title": "茶肆、市井与人间烟火",
+      "subtitle": "点击「茶肆」，了解沿岸街市",
+      "label": "市井简介",
+      "crop": [
+        1285,
+        350,
+        620,
+        434
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 126.9,
+      "duration": 6,
+      "start": 41,
+      "end": 47,
+      "title": "点一下「走近看看」",
+      "subtitle": "从简介直接进入对应的街市场景",
+      "label": "近看市井",
+      "crop": [
+        420,
+        155,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 133.8,
+      "duration": 5,
+      "start": 47,
+      "end": 52,
+      "title": "街巷营造，灰瓦连檐",
+      "subtitle": "第四景：木窗、屋瓦和院落层次",
+      "label": "街巷与建筑",
+      "crop": [
+        350,
+        100,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 139.4,
+      "duration": 5,
+      "start": 52,
+      "end": 57,
+      "title": "城阙远眺，一城展开",
+      "subtitle": "第五景：拉开尺度，查看街区全貌",
+      "label": "城市全景",
+      "crop": [
+        400,
+        100,
+        1100,
+        770
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 149.9,
+      "duration": 5,
+      "start": 57,
+      "end": 62,
+      "title": "在舆图上选择目的地",
+      "subtitle": "点击右上角地图，移动观察位置",
+      "label": "地图定位",
+      "crop": [
+        1050,
+        100,
+        840,
+        588
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 160.6,
+      "duration": 6,
+      "start": 62,
+      "end": 68,
+      "title": "把时辰切换到清晨",
+      "subtitle": "同一座虹桥，比较日光与阴影",
+      "label": "清晨光照",
+      "crop": [
+        1000,
+        180,
+        840,
+        588
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 169.7,
+      "duration": 6,
+      "start": 68,
+      "end": 74,
+      "title": "再看一眼汴京暮色",
+      "subtitle": "光照切换后，回到完整场景观察",
+      "label": "暮色光照",
+      "crop": [
+        700,
+        160,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 190.4,
+      "duration": 4,
+      "start": 74,
+      "end": 78,
+      "title": "画质、动画、标记均可调",
+      "subtitle": "保留真实设置面板与运行读数",
+      "label": "画面设置",
+      "crop": [
+        1285,
+        355,
+        620,
+        434
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 199.6,
+      "duration": 5,
+      "start": 78,
+      "end": 83,
+      "title": "打开线框，检查模型",
+      "subtitle": "从几何结构观察三维重建结果",
+      "label": "线框结构",
+      "crop": [
+        420,
+        140,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 220.4,
+      "duration": 2,
+      "start": 83,
+      "end": 85,
+      "title": "原卷对照，有据可查",
+      "subtitle": "在网页中打开张择端的原画长卷",
+      "label": "原卷对照",
+      "crop": [
+        240,
+        170,
+        1300,
+        910
+      ]
+    },
+    {
+      "source": "ref",
+      "in_seconds": 20,
+      "duration": 6,
+      "start": 85,
+      "end": 91,
+      "title": "横向浏览，展开原卷",
+      "subtitle": "保留完整页面，同时放大画中细节",
+      "label": "横向浏览",
+      "crop": [
+        370,
+        240,
+        1200,
+        840
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 290.1,
+      "duration": 5,
+      "start": 91,
+      "end": 96,
+      "title": "复原依据，也可以查看",
+      "subtitle": "作品说明写明建模方式与推定范围",
+      "label": "关于复原",
+      "crop": [
+        205,
+        296,
+        1120,
+        784
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 307,
+      "duration": 6,
+      "start": 96,
+      "end": 102,
+      "title": "把成果带走，继续创作",
+      "subtitle": "实际点击按钮，保存当前高清画面",
+      "label": "拍摄与导出",
+      "crop": [
+        1285,
+        370,
+        620,
+        434
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 331.1,
+      "duration": 6,
+      "start": 102,
+      "end": 108,
+      "title": "开启音乐，开始自动巡游",
+      "subtitle": "按钮、状态与移动镜头一起展示",
+      "label": "自动巡游",
+      "crop": [
+        650,
+        200,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 338.2,
+      "duration": 6,
+      "start": 108,
+      "end": 114,
+      "title": "隐藏界面，随镜入画",
+      "subtitle": "保留自由操作，也支持纯净画面",
+      "label": "纯净画面",
+      "crop": [
+        520,
+        120,
+        1000,
+        700
+      ]
+    },
+    {
+      "source": "main",
+      "in_seconds": 354,
+      "duration": 6,
+      "start": 114,
+      "end": 120,
+      "title": "入画 · 汴京",
+      "subtitle": "打开网页，就能亲自检验作品",
+      "label": "虹桥巡游",
+      "crop": [
+        490,
+        115,
+        1000,
+        700
+      ]
+    }
+  ]
+}

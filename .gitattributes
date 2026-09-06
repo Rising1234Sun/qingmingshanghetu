@@ -1,0 +1,15 @@
+* text=auto
+*.js text eol=lf
+*.mjs text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.command text eol=lf
+*.glb binary
+*.jpg binary
+*.png binary
+*.mp3 binary
+*.otf binary
+*.woff2 binary
+*.wasm binary

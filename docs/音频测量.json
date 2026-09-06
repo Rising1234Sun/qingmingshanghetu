@@ -1,0 +1,26 @@
+{
+  "原创配乐.wav": {
+    "input_i": "-25.81",
+    "input_tp": "-10.35",
+    "input_lra": "10.40",
+    "input_thresh": "-36.04",
+    "output_i": "-12.04",
+    "output_tp": "-1.00",
+    "output_lra": "5.30",
+    "output_thresh": "-22.16",
+    "normalization_type": "dynamic",
+    "target_offset": "-1.96"
+  },
+  "配乐环境混音.wav": {
+    "input_i": "-25.80",
+    "input_tp": "-10.32",
+    "input_lra": "10.20",
+    "input_thresh": "-36.00",
+    "output_i": "-12.05",
+    "output_tp": "-1.00",
+    "output_lra": "5.30",
+    "output_thresh": "-22.17",
+    "normalization_type": "dynamic",
+    "target_offset": "-1.95"
+  }
+}

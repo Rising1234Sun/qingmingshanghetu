@@ -1,0 +1,11 @@
+{
+  "previous_scene": "8d3d078de3fade9b50f42f9423b08ce54823315f62b3f847d38f0232406aa60c",
+  "current_scene": "62bfd389a3a19aa334ae7bc85d0cbee4904815c12206112ecf67455d8035fd25",
+  "modified_camera": "04_沿岸市井",
+  "affected_frames": [
+    661,
+    960
+  ],
+  "already_rendered_max": 49,
+  "reason": "原路线与一位行人头部最近约 0.45 米；将相机横移到 x=17.9 并略抬高。已完成帧使用其他相机，不受本次修订影响。"
+}

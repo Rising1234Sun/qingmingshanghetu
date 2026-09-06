@@ -1,0 +1,355 @@
+{
+  "video": {
+    "path": "output/web/入画汴京_网页实录_2026-09-05T06-54-41-294Z.mp4",
+    "filename": "入画汴京_网页实录_2026-09-05T06-54-41-294Z.mp4"
+  },
+  "seconds": 452.28269999999924,
+  "width": 3840,
+  "height": 2160,
+  "renderSize": {
+    "width": 3840,
+    "height": 2160
+  },
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "requestedFps": 24,
+  "requestedVideoBitsPerSecond": 65000000,
+  "frames": 10452,
+  "events": [
+    {
+      "seconds": 23.613,
+      "type": "click",
+      "label": "页面",
+      "x": 645,
+      "y": 337
+    },
+    {
+      "seconds": 31.289,
+      "type": "wheel",
+      "label": "滚轮拉近",
+      "x": 700,
+      "y": 360
+    },
+    {
+      "seconds": 43.425,
+      "type": "click",
+      "label": "查看编木虹桥",
+      "x": 721,
+      "y": 260
+    },
+    {
+      "seconds": 102.506,
+      "type": "click",
+      "label": "关闭",
+      "x": 1217,
+      "y": 140
+    },
+    {
+      "seconds": 102.837,
+      "type": "click",
+      "label": "02汴河漕运",
+      "x": 438,
+      "y": 633
+    },
+    {
+      "seconds": 108.545,
+      "type": "click",
+      "label": "查看汴河漕运",
+      "x": 577,
+      "y": 430
+    },
+    {
+      "seconds": 120.794,
+      "type": "click",
+      "label": "关闭",
+      "x": 1217,
+      "y": 203
+    },
+    {
+      "seconds": 121.127,
+      "type": "click",
+      "label": "返回虹桥全景",
+      "x": 135,
+      "y": 60
+    },
+    {
+      "seconds": 141.753,
+      "type": "click",
+      "label": "查看沿岸茶肆",
+      "x": 1064,
+      "y": 312
+    },
+    {
+      "seconds": 155.711,
+      "type": "click",
+      "label": "走近看看 ↗",
+      "x": 1072,
+      "y": 484
+    },
+    {
+      "seconds": 169.087,
+      "type": "click",
+      "label": "04街巷营造",
+      "x": 794,
+      "y": 633
+    },
+    {
+      "seconds": 183.086,
+      "type": "click",
+      "label": "05城阙远眺",
+      "x": 972,
+      "y": 359
+    },
+    {
+      "seconds": 199.296,
+      "type": "click",
+      "label": "点击地图移动视角",
+      "x": 1159,
+      "y": 246
+    },
+    {
+      "seconds": 214.628,
+      "type": "click",
+      "label": "返回虹桥全景",
+      "x": 135,
+      "y": 60
+    },
+    {
+      "seconds": 214.963,
+      "type": "click",
+      "label": "画面设置",
+      "x": 1169,
+      "y": 60
+    },
+    {
+      "seconds": 220.921,
+      "type": "click",
+      "label": "清晨",
+      "x": 974,
+      "y": 234
+    },
+    {
+      "seconds": 225.796,
+      "type": "click",
+      "label": "关闭",
+      "x": 1217,
+      "y": 75
+    },
+    {
+      "seconds": 243.117,
+      "type": "click",
+      "label": "画面设置",
+      "x": 1169,
+      "y": 60
+    },
+    {
+      "seconds": 243.47,
+      "type": "click",
+      "label": "暮色",
+      "x": 1170,
+      "y": 234
+    },
+    {
+      "seconds": 263.549,
+      "type": "click",
+      "label": "关闭",
+      "x": 1217,
+      "y": 75
+    },
+    {
+      "seconds": 279.745,
+      "type": "click",
+      "label": "画面设置",
+      "x": 1169,
+      "y": 60
+    },
+    {
+      "seconds": 280.049,
+      "type": "click",
+      "label": "暖日",
+      "x": 1072,
+      "y": 234
+    },
+    {
+      "seconds": 280.278,
+      "type": "change",
+      "label": "quality: ultra"
+    },
+    {
+      "seconds": 280.886,
+      "type": "click",
+      "label": "motion-toggle",
+      "x": 931,
+      "y": 381
+    },
+    {
+      "seconds": 280.887,
+      "type": "change",
+      "label": "motion-toggle: false"
+    },
+    {
+      "seconds": 281.284,
+      "type": "click",
+      "label": "pins-toggle",
+      "x": 931,
+      "y": 419
+    },
+    {
+      "seconds": 281.285,
+      "type": "change",
+      "label": "pins-toggle: false"
+    },
+    {
+      "seconds": 301.278,
+      "type": "change",
+      "label": "quality: high"
+    },
+    {
+      "seconds": 301.404,
+      "type": "click",
+      "label": "wire-toggle",
+      "x": 931,
+      "y": 461
+    },
+    {
+      "seconds": 301.404,
+      "type": "change",
+      "label": "wire-toggle: true"
+    },
+    {
+      "seconds": 301.716,
+      "type": "click",
+      "label": "关闭",
+      "x": 1202,
+      "y": 67
+    },
+    {
+      "seconds": 323.676,
+      "type": "click",
+      "label": "画面设置",
+      "x": 1169,
+      "y": 60
+    },
+    {
+      "seconds": 324.092,
+      "type": "click",
+      "label": "wire-toggle",
+      "x": 931,
+      "y": 473
+    },
+    {
+      "seconds": 324.092,
+      "type": "change",
+      "label": "wire-toggle: false"
+    },
+    {
+      "seconds": 324.685,
+      "type": "click",
+      "label": "motion-toggle",
+      "x": 931,
+      "y": 389
+    },
+    {
+      "seconds": 324.686,
+      "type": "change",
+      "label": "motion-toggle: true"
+    },
+    {
+      "seconds": 325.033,
+      "type": "click",
+      "label": "pins-toggle",
+      "x": 931,
+      "y": 431
+    },
+    {
+      "seconds": 325.034,
+      "type": "change",
+      "label": "pins-toggle: true"
+    },
+    {
+      "seconds": 325.343,
+      "type": "click",
+      "label": "关闭",
+      "x": 1217,
+      "y": 75
+    },
+    {
+      "seconds": 325.743,
+      "type": "click",
+      "label": "原卷对照",
+      "x": 1037,
+      "y": 60
+    },
+    {
+      "seconds": 334.584,
+      "type": "wheel",
+      "label": "横向滚动",
+      "x": 650,
+      "y": 355
+    },
+    {
+      "seconds": 356.633,
+      "type": "click",
+      "label": "关闭",
+      "x": 1155,
+      "y": 98
+    },
+    {
+      "seconds": 356.971,
+      "type": "click",
+      "label": "关于复原 ↗",
+      "x": 1116,
+      "y": 692
+    },
+    {
+      "seconds": 375.646,
+      "type": "click",
+      "label": "关闭",
+      "x": 1155,
+      "y": 124
+    },
+    {
+      "seconds": 375.968,
+      "type": "click",
+      "label": "拍摄与导出 ↗",
+      "x": 1204,
+      "y": 692
+    },
+    {
+      "seconds": 393.01,
+      "type": "click",
+      "label": "保存当前高清画面 ↓ PNG",
+      "x": 1064,
+      "y": 340
+    },
+    {
+      "seconds": 406.928,
+      "type": "click",
+      "label": "开启原创配乐",
+      "x": 1118,
+      "y": 60
+    },
+    {
+      "seconds": 407.259,
+      "type": "click",
+      "label": "自动巡游60 秒",
+      "x": 1154,
+      "y": 633
+    },
+    {
+      "seconds": 421.009,
+      "type": "click",
+      "label": "隐藏界面，H 键恢复",
+      "x": 1216,
+      "y": 464
+    },
+    {
+      "seconds": 452.114,
+      "type": "key",
+      "label": "h"
+    }
+  ],
+  "method": "真实 WebGL 连续画面 + 实际 DOM 界面状态；WebGL 与界面均按目标像素原生采集，鼠标与点击提示来自实际输入。"
+}

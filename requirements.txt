@@ -1,0 +1,6 @@
+numpy==2.5.2
+scipy==1.18.1
+pillow==12.3.0
+soundfile==0.14.0
+imageio-ffmpeg==0.6.0
+mido==1.3.3

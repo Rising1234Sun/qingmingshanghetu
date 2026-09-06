@@ -1,0 +1,136 @@
+{
+  "files": 26,
+  "failures": [],
+  "results": [
+    {
+      "file": "assets/addons-BbKmn8fR.js",
+      "bytes": 70877,
+      "sha256": "3c9079db7fc3b8755cd598921c25415019899d121b3f5c532ba6f8b69c5c1741"
+    },
+    {
+      "file": "assets/index-CyeJNkZ6.js",
+      "bytes": 102971,
+      "sha256": "4e9dcba2b70b1ebd96af6e13150ef526baa7139cf28b088a0e43be310dead800"
+    },
+    {
+      "file": "assets/index-DF7Hmtob.css",
+      "bytes": 18040,
+      "sha256": "768b545f350b329f91cb8b83699eb2e32b082a670897dc9341d792ebd5121ba9"
+    },
+    {
+      "file": "assets/three-Dt63J04f.js",
+      "bytes": 553502,
+      "sha256": "2f8392ed8f8568e56bf4bb17279580705f50162d2b61d9fc59e3b44c22bc4cc3"
+    },
+    {
+      "file": "audio/bianjing.mp3",
+      "bytes": 1441196,
+      "sha256": "26fadd556b38d3c177e5f410963683735bb24423644a757d88d67ce97992e95f"
+    },
+    {
+      "file": "draco/LICENSE",
+      "bytes": 13898,
+      "sha256": "d3709b0fb4b8a94bbb1d02b8a2e484f258b0d9c5c5a01f940391f3fe662cd1a4"
+    },
+    {
+      "file": "draco/draco_decoder.wasm",
+      "bytes": 192420,
+      "sha256": "a680d927bed9cb864ddbd63521868891af2bfbe755092761b4837487618df8ac"
+    },
+    {
+      "file": "draco/draco_wasm_wrapper.js",
+      "bytes": 58456,
+      "sha256": "8bb2952d2ba7d67e1414f8df819410cb0434a666be53f671fff75f68843d76f6"
+    },
+    {
+      "file": "fonts/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "file": "fonts/song.woff2",
+      "bytes": 243992,
+      "sha256": "8efcf4197768b6786fcd750a6b399b885c861fa77fffe5a8eb7f4fc09e88c46f"
+    },
+    {
+      "file": "index.html",
+      "bytes": 10819,
+      "sha256": "02faea0e1bd4f3c3052ec6bb7342dbfcb027f2bec5ea640282338f028513a6f0"
+    },
+    {
+      "file": "licenses/Three.js-MIT.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "file": "licenses/Vite-MIT.md",
+      "bytes": 101176,
+      "sha256": "a77a1c089806b39ad339535bdf3677f636c91d96693e8ad7b11fe733f650ea64"
+    },
+    {
+      "file": "licenses/html-to-image-MIT.txt",
+      "bytes": 1066,
+      "sha256": "9fe73723f7a9e91057f73aafc9b6a3c3b2174db2b3ddc0a3a6a8ddf2bad68e37"
+    },
+    {
+      "file": "models/bianjing.glb",
+      "bytes": 12814892,
+      "sha256": "c10d68755c57930da32f2e4e1de314bc0198038761baf6aec2bba53644d57304"
+    },
+    {
+      "file": "models/manifest.json",
+      "bytes": 318,
+      "sha256": "fdd08ca59d8036e9fcfe565b87223a723a87e2729fc56fa656d59f22ca19a147"
+    },
+    {
+      "file": "reference/bridge.jpg",
+      "bytes": 624042,
+      "sha256": "2d85135768d28c019d452de70d9701c4e9757febba14276ce710f911b9233df0"
+    },
+    {
+      "file": "reference/scroll.jpg",
+      "bytes": 815881,
+      "sha256": "dffcc63fd753f429db514d61b693abc39a4c162ad17d9243938bd5dc07f1574c"
+    },
+    {
+      "file": "seal.svg",
+      "bytes": 286,
+      "sha256": "14714fc51bf4135ef452b1e04cee6fd156253861c905957d8d6254fd5f50f163"
+    },
+    {
+      "file": "textures/cloth.jpg",
+      "bytes": 296324,
+      "sha256": "fe0d2c2bc986053e70fd8094fef7ead4b137798643d8dc674716d1ef71362521"
+    },
+    {
+      "file": "textures/eyes.png",
+      "bytes": 610817,
+      "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+    },
+    {
+      "file": "textures/ground.jpg",
+      "bytes": 532842,
+      "sha256": "0a67d3f89cb00483e27fe258e2939c31b62da5923c8652f5a377c50cc3ca1231"
+    },
+    {
+      "file": "textures/plaster.jpg",
+      "bytes": 96161,
+      "sha256": "f003e719e85ebe9df1215db67ebd971838d4970dee39725ce71262d05fe2a461"
+    },
+    {
+      "file": "textures/skin.jpg",
+      "bytes": 120915,
+      "sha256": "731021f7ebaa901f49444ce920f5377deb22ce98b782f40fdb79a0ec379aef7d"
+    },
+    {
+      "file": "textures/water-normal.png",
+      "bytes": 471930,
+      "sha256": "7f4afe6bcb92fbc46abc43abbc461afc7c5f0b5db66fbf9161a3f13261b729de"
+    },
+    {
+      "file": "textures/wood.jpg",
+      "bytes": 195750,
+      "sha256": "b6beef074cec69cb72056ef7c13612736342417e3777d1452bdb7062b6b7bb2c"
+    }
+  ]
+}

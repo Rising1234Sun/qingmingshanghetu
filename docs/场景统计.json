@@ -1,0 +1,8 @@
+{
+  "objects": 4902,
+  "meshes": 1737,
+  "polygons": 817506,
+  "build_seconds": 3.53,
+  "renderer": "Cycles / Metal",
+  "seed": 1145
+}

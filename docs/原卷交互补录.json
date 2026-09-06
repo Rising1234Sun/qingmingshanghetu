@@ -1,0 +1,41 @@
+{
+  "video": {
+    "path": "output/web/入画汴京_网页实录_2026-09-05T04-22-35-419Z.mp4",
+    "filename": "入画汴京_网页实录_2026-09-05T04-22-35-419Z.mp4"
+  },
+  "seconds": 29.396,
+  "width": 1920,
+  "height": 1080,
+  "frames": 704,
+  "events": [
+    {
+      "seconds": 6.838,
+      "type": "click",
+      "label": "原卷对照",
+      "x": 1037,
+      "y": 60
+    },
+    {
+      "seconds": 12.747,
+      "type": "wheel",
+      "label": "滚轮拉远",
+      "x": 594,
+      "y": 388
+    },
+    {
+      "seconds": 21.664,
+      "type": "wheel",
+      "label": "滚轮拉远",
+      "x": 650,
+      "y": 395
+    },
+    {
+      "seconds": 28.714,
+      "type": "click",
+      "label": "关闭",
+      "x": 1155,
+      "y": 98
+    }
+  ],
+  "method": "真实 WebGL 连续画面 + 实际 DOM 界面状态；鼠标与点击提示来自实际输入。"
+}

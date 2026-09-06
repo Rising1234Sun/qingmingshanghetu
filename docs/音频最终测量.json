@@ -1,0 +1,23 @@
+{
+  "原创配乐.wav": {
+    "frames": 2880000,
+    "sample_rate": 48000,
+    "seconds": 60.0,
+    "lufs": "-13.94",
+    "true_peak": "-1.00"
+  },
+  "环境音.wav": {
+    "frames": 2880000,
+    "sample_rate": 48000,
+    "seconds": 60.0,
+    "lufs": "-46.59",
+    "true_peak": "-28.16"
+  },
+  "配乐环境混音.wav": {
+    "frames": 2880000,
+    "sample_rate": 48000,
+    "seconds": 60.0,
+    "lufs": "-13.95",
+    "true_peak": "-1.00"
+  }
+}

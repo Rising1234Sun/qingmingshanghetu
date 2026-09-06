@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#233c39" />
+  <meta name="description" content="入画·汴京。一幅可以走进去的清明上河图，浏览器实时三维重建，漫游虹桥与北宋市井。" />
+  <title>入画·汴京 — 清明上河图三维漫游</title>
+  <link rel="icon" type="image/svg+xml" href="/seal.svg" />
+</head>
+<body>
+  <div id="viewport" aria-label="清明上河图实时三维场景"></div>
+  <div class="vignette" aria-hidden="true"></div>
+  <div id="loading" role="status">
+    <div class="loading-art"><span>入</span><span>画</span></div>
+    <div class="loading-rule"></div>
+    <p>一卷千年，万象入画</p>
+    <small id="loading-label">正在展开汴京长卷</small>
+    <div class="loading-track"><i id="loading-bar"></i></div>
+    <span id="loading-percent">0%</span>
+    <div id="load-error" hidden></div>
+  </div>
+
+  <main id="interface">
+    <header class="topbar">
+      <button class="brand" id="home" aria-label="返回虹桥全景">
+        <span class="seal">入<br>画</span>
+        <span class="brand-text">汴京<small>清明上河图 · 三维长卷</small></span>
+      </button>
+      <div class="top-actions">
+        <span class="live-label"><i></i> 实时三维</span>
+        <button id="reference-open" aria-label="原卷对照" class="text-button"><span class="icon" data-icon="scroll"></span><span>原卷对照</span></button>
+        <button id="sound" class="icon-button" title="开启原创配乐" aria-label="开启原创配乐" aria-pressed="false"><span class="icon" data-icon="volume-off"></span></button>
+        <button id="settings-open" class="icon-button" title="画面设置" aria-label="画面设置"><span class="icon" data-icon="sliders"></span></button>
+        <button id="fullscreen" class="icon-button" title="全屏展示" aria-label="全屏展示"><span class="icon" data-icon="expand"></span></button>
+      </div>
+    </header>
+
+    <section class="intro" aria-label="作品介绍">
+      <div class="eyebrow"><span></span> 北宋 · 东京汴梁</div>
+      <h1>一朝繁华<span>如在眼前</span></h1>
+      <p>循汴水，过虹桥，入市井。<br>在一幅长卷里，走进人间烟火。</p>
+      <button id="intro-tour" class="primary-button"><span class="icon" data-icon="play"></span> 随镜入画 <span class="button-meta">60″</span></button>
+    </section>
+
+    <aside class="map-panel" aria-label="汴京游览地图">
+      <div class="map-heading"><span>汴京舆图</span><small>北 <span>↑</span></small></div>
+      <canvas id="minimap" width="360" height="400" aria-label="点击地图移动视角"></canvas>
+      <div class="map-footer"><i></i><span id="location-name">虹桥 · 汴水之上</span></div>
+    </aside>
+
+    <div id="hotspots" aria-label="场景中的细节看点"></div>
+
+    <div class="view-tools">
+      <button id="zoom-in" aria-label="拉近视角" title="拉近">＋</button>
+      <button id="zoom-out" aria-label="拉远视角" title="拉远">−</button>
+      <span></span>
+      <button id="hide-ui" aria-label="隐藏界面，H 键恢复" title="纯净画面 · H"><i class="icon" data-icon="eye"></i></button>
+    </div>
+
+    <div class="scene-caption"><span id="scene-number">壹</span><div><h2 id="scene-title">虹桥胜景</h2><p id="scene-subtitle">飞架汴水，舟楫往来</p></div></div>
+
+    <footer class="bottom-panel">
+      <div class="controls-hint"><span class="mouse-symbol"></span> 拖动环视 <b>·</b> 滚轮缩放 <b>·</b> 右键平移 <span class="hint-key">H</span> 隐藏界面</div>
+      <div class="journey-bar">
+        <div class="journey-label"><span>漫游</span><small>汴京五景</small></div>
+        <nav id="chapters" aria-label="选择游览场景">
+          <button class="chapter active" data-chapter="0"><small>01</small><span>虹桥胜景</span><i></i></button>
+          <button class="chapter" data-chapter="1"><small>02</small><span>汴河漕运</span><i></i></button>
+          <button class="chapter" data-chapter="2"><small>03</small><span>沿岸市井</span><i></i></button>
+          <button class="chapter" data-chapter="3"><small>04</small><span>街巷营造</span><i></i></button>
+          <button class="chapter" data-chapter="4"><small>05</small><span>城阙远眺</span><i></i></button>
+        </nav>
+        <button id="tour" class="tour-button"><span class="icon" data-icon="play"></span><span id="tour-label">自动巡游</span><small id="tour-time">60 秒</small></button>
+      </div>
+      <div class="bottom-meta"><span>据故宫藏张择端《清明上河图》卷重建</span><button id="about-open">关于复原 <span>↗</span></button><button id="capture-open">拍摄与导出 <span>↗</span></button></div>
+    </footer>
+  </main>
+
+  <button id="restore-ui" hidden>显示界面 <kbd>H</kbd></button>
+  <div id="tour-progress" hidden><i></i></div>
+  <div id="toast" role="status"></div>
+  <div id="shot-fade"></div>
+
+  <dialog id="settings-dialog" class="side-dialog">
+    <form method="dialog"><button class="close-button" aria-label="关闭">×</button></form>
+    <span class="eyebrow">光影与细节</span><h2>此刻的汴京</h2>
+    <label class="setting-label">时辰<span id="time-label">午后 · 暖日</span></label>
+    <div class="segmented" id="daylight"><button data-light="day">清晨</button><button data-light="golden" class="active">暖日</button><button data-light="sunset">暮色</button></div>
+    <label class="setting-label" for="quality">画面精度</label>
+    <select id="quality"><option value="high">精细 · 阴影与水面倒影</option><option value="ultra">极致 · 更高像素密度与环境遮蔽</option><option value="low">流畅 · 适合手机与低功耗</option></select>
+    <label class="toggle-row">人物与舟船动画<input id="motion-toggle" type="checkbox" checked><span class="switch"></span></label>
+    <label class="toggle-row">场景细节标记<input id="pins-toggle" type="checkbox" checked><span class="switch"></span></label>
+    <label class="toggle-row">模型线框<input id="wire-toggle" type="checkbox"><span class="switch"></span></label>
+    <div class="diagnostics"><span>当前绘制</span><strong id="performance">准备中</strong><p>数值来自当前浏览器实时渲染。实际帧率受设备、视角和画质影响。</p></div>
+  </dialog>
+
+  <dialog id="reference-dialog" class="wide-dialog">
+    <form method="dialog"><button class="close-button" aria-label="关闭">×</button></form>
+    <div class="dialog-heading"><span class="eyebrow">原卷对照</span><h2>张择端 · 清明上河图</h2><p>北宋 · 绢本设色 · 故宫博物院藏</p></div>
+    <div class="scroll-window"><img src="/reference/scroll.jpg" alt="张择端清明上河图原卷，可横向滚动查看" loading="lazy"></div>
+    <div class="reference-note"><span>← 横向滚动展开长卷 →</span><p>三维作品聚焦虹桥、汴河与沿岸市井。原画未呈现的背面、空间尺度及局部街巷进行了合理推定。</p><a href="https://www.dpm.org.cn/collection/paint/228226.html" target="_blank" rel="noreferrer">查看故宫馆藏资料 ↗</a></div>
+  </dialog>
+
+  <dialog id="about-dialog" class="wide-dialog about-dialog">
+    <form method="dialog"><button class="close-button" aria-label="关闭">×</button></form>
+    <span class="eyebrow">一幅可以走进去的长卷</span><h2>入画 · 汴京</h2>
+    <p class="about-lead">以程序搭建的三维城市，用实时光影续写一卷烟火。</p>
+    <div class="about-grid"><article><span>01 / 依据</span><h3>从原卷出发</h3><p>依据故宫藏张择端本，保留开放木拱虹桥、河中舟楫与两岸市井的主题关系。场景属于艺术性空间重建，尚不等同于考古复原。</p></article><article><span>02 / 作品</span><h3>真正的三维场景</h3><p>屋瓦、桥梁、舟船与街市器物由程序生成几何；人物使用开放基础面部网格和程序衣饰。浏览器每帧计算视角、光照、水波与关节动画。</p></article><article><span>03 / 展示</span><h3>让结果可检验</h3><p>自由旋转、拉近、平移，也可切换线框观察结构。自动巡游与视频录制均来自正在运行的三维场景，原卷仅用于对照参考。</p></article></div>
+    <p class="source-note">免费开放素材：MakeHuman（人物基础网格）、ambientCG（地表与木纹）、VSCO 2 CE（乐器采样）、Noto Serif CJK（字体）。音乐为本项目原创编曲。完整来源与工程保存在项目目录。</p>
+  </dialog>
+
+  <dialog id="capture-dialog" class="side-dialog">
+    <form method="dialog"><button class="close-button" aria-label="关闭">×</button></form>
+    <span class="eyebrow">把汴京带走</span><h2>拍摄与导出</h2>
+    <p>直接记录网页正在运行的三维画面。</p>
+    <label class="setting-label" for="aspect">取景比例</label><select id="aspect"><option value="landscape">横屏 · 展示完整场景</option><option value="portrait">竖屏 9:16 · 适合抖音</option></select>
+    <button id="screenshot" class="panel-action">保存当前高清画面 <span>↓ PNG</span></button>
+    <button id="record" class="panel-action accent">录制 60 秒自动巡游 <span>●</span></button>
+    <label class="setting-label" for="interface-resolution">完整网页录制清晰度</label><select id="interface-resolution"><option value="1920">1080P · 日常录制</option><option value="3840">4K 原生画面 · 更适合剪辑</option></select>
+    <button id="record-interface" class="panel-action">录制完整网页操作 <span>● 界面</span></button>
+    <p class="capture-note">自动巡游录制会隐藏界面并加入原创配乐。完整网页录制保留按钮、弹窗与鼠标操作，完成后点击“结束并保存”。浏览器支持时保存 MP4，否则保存 WebM；录制帧率取决于设备运行速度。可随时按 Esc 停止并保存。</p>
+    <div id="record-status" role="status"></div>
+  </dialog>
+
+  <dialog id="detail-dialog" class="side-dialog">
+    <form method="dialog"><button class="close-button" aria-label="关闭">×</button></form>
+    <span class="eyebrow">汴京细部</span><h2 id="detail-title"></h2><div id="detail-content"></div><button id="detail-visit" class="panel-action">走近看看 <span>↗</span></button>
+  </dialog>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

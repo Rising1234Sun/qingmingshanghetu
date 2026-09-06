@@ -1,0 +1,20 @@
+[
+  {
+    "file": "入画汴京_两分钟完整网页演示_横屏.mp4",
+    "bytes": 68002857,
+    "sha256": "e85be9025275ab178ed337f7099b45a3f92d11b4715c95f4a60fa8dcc5a171a6",
+    "decode_errors": "",
+    "metadata": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'output/showcase/入画汴京_两分钟完整网页演示_横屏.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.100\n  Duration: 00:02:00.00, start: 0.000000, bitrate: 4533 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 4332 kb/s, 24 fps, 24 tbr, 12288 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.100 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 195 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\nAt least one output file must be specified\n",
+    "lufs": "-14.04",
+    "true_peak": "-1.02"
+  },
+  {
+    "file": "入画汴京_两分钟功能展示_抖音竖屏.mp4",
+    "bytes": 51691005,
+    "sha256": "eda6c1ea73ca52b19663f78d0bfc51e13757cf90e5e7827d9fe504f6c700549d",
+    "decode_errors": "",
+    "metadata": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'output/showcase/入画汴京_两分钟功能展示_抖音竖屏.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.100\n  Duration: 00:02:00.00, start: 0.000000, bitrate: 3446 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 3245 kb/s, 24 fps, 24 tbr, 12288 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.100 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 195 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\nAt least one output file must be specified\n",
+    "lufs": "-14.04",
+    "true_peak": "-1.02"
+  }
+]

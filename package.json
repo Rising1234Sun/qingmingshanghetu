@@ -1,0 +1,22 @@
+{
+  "name": "ruhua-bianjing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "以清明上河图为题的 GPT-6 Astra 实践测试：可交互的汴京三维网页与原生 4K 展示录制",
+  "engines": { "node": "^20.19.0 || >=22.12.0" },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check-project.mjs"
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.13",
+    "three": "^0.183.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}

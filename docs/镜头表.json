@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01_入画",
+    "start": 1,
+    "end": 120,
+    "frames": 120,
+    "duration": 5.0,
+    "camera": "01_入画"
+  },
+  {
+    "id": "02_汴河行舟",
+    "start": 121,
+    "end": 360,
+    "frames": 240,
+    "duration": 10.0,
+    "camera": "02_汴河行舟"
+  },
+  {
+    "id": "03_虹桥烟火",
+    "start": 361,
+    "end": 660,
+    "frames": 300,
+    "duration": 12.5,
+    "camera": "03_虹桥烟火"
+  },
+  {
+    "id": "04_沿岸市井",
+    "start": 661,
+    "end": 960,
+    "frames": 300,
+    "duration": 12.5,
+    "camera": "04_沿岸市井"
+  },
+  {
+    "id": "05_汴京繁华",
+    "start": 961,
+    "end": 1260,
+    "frames": 300,
+    "duration": 12.5,
+    "camera": "05_汴京繁华"
+  },
+  {
+    "id": "06_归于长卷",
+    "start": 1261,
+    "end": 1440,
+    "frames": 180,
+    "duration": 7.5,
+    "camera": "06_归于长卷"
+  }
+]

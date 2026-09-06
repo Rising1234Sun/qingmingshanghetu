@@ -1,0 +1,1022 @@
+{
+  "source": "https://github.com/sgossner/VSCO-2-CE",
+  "revision": "440300901dfe9275fd84e0b7763af1f8443ae62e",
+  "license": "CC0-1.0",
+  "files": [
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_A#1_v1_1.wav",
+      "bytes": 2417592,
+      "sha256": "134f9c522ea928e5bfebb49c649b5eeb809075f1b9f42ac6b984f16ff7457fec"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_A0_v1_1.wav",
+      "bytes": 947196,
+      "sha256": "cf71214116045722b401d12867c1c4ea0c52314834e5fc0538eeae8b7da6acad"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_A2_v1_1.wav",
+      "bytes": 2672192,
+      "sha256": "897ffa7cfdf4e0413e4c80e7fa935f28e0a0971691e112f1516c6102da61809f"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_C1_v1_1.wav",
+      "bytes": 1093856,
+      "sha256": "886fd6f490b64f7f2a597f45fe6af01e8c90da9e01d0bf8bdcaceb540a071283"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_C3_v1_1.wav",
+      "bytes": 2519448,
+      "sha256": "d96bc1821e46352e620fc0e3eaa9bbc415824e0f84f19aac6373c54c6aaa34da"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_D#1_v1_1.wav",
+      "bytes": 1425196,
+      "sha256": "b5568812f0ed56900071c55cae86518d030b2eb23f9ee094b0706e47984b16d8"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_D2_v1_1.wav",
+      "bytes": 2500360,
+      "sha256": "c8a320cff7c6d19f7089c374e3041b1cbbc73718ba9de37149a82a1117866015"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_D4_v1_1.wav",
+      "bytes": 1445100,
+      "sha256": "2866520e737f3826ee9f53693f148109a9cc2d2e54235db0b92f78b2c100b8f7"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_F2_v1_1.wav",
+      "bytes": 2163124,
+      "sha256": "d3dcfb6c90cb76954887eb56a85041d5e758bad21234ec0ed11e476d6f05352b"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_F4_v1_1.wav",
+      "bytes": 1477536,
+      "sha256": "580b2e57aa42f5fd6e4ecb65dcb79f01dfe510e98ddc2bea0a77fca1cba8d424"
+    },
+    {
+      "path": "Brass/F Horn/sus/MOHorn_sus_G1_v1_1.wav",
+      "bytes": 2038728,
+      "sha256": "f26c86c4ed934343c37291c33324c4797db1de62f5030dee1670d2d6e64dcb65"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani1_Hit_v1_rr1_Sum.wav",
+      "bytes": 559976,
+      "sha256": "a43d60795e9eab808866c22b6b6b42a64d3a13f6754838f0100a0a1e9a3029cd"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani1_Hit_v1_rr2_Sum.wav",
+      "bytes": 542456,
+      "sha256": "8f0e0367321f1bfae71f2ef776957ea625d0a48d618fee6f9d42a160222e59c5"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani1_Hit_v3_rr1_Sum.wav",
+      "bytes": 1602676,
+      "sha256": "8b39a785901d08dee14dd89914bdf2201e16ee418965e4d903fdb8e280a14d24"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani1_Hit_v3_rr2_Sum.wav",
+      "bytes": 2026620,
+      "sha256": "ac6ae66048e162024d188f1ea01f6b8b6bd9184d35e164258bab6a383eb7ff93"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani2_Hit_v1_rr1_Sum.wav",
+      "bytes": 1150296,
+      "sha256": "19b6e335811edd38d7ecc180d9d6e4adada12ff7a882f83e5153f093a912ae85"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani2_Hit_v1_rr2_Sum.wav",
+      "bytes": 1325164,
+      "sha256": "702eb08bffe0a8029c2454c7fac6d35a9371d1c9af29e90f38cc00e472a0cfd2"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani2_Hit_v3_rr1_Sum.wav",
+      "bytes": 1895164,
+      "sha256": "69e5d604effd3f29c86117d22ad2335f73e43f5d47868dc57d8fa593975ee241"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani2_Hit_v3_rr2_Sum.wav",
+      "bytes": 1816436,
+      "sha256": "828019517a0475cb9b42d1e40e2cb0a62159f3a9de1d67a5c238f3687e41761e"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani2_Hit_v4_rr1_Sum.wav",
+      "bytes": 1638140,
+      "sha256": "b737b4bde0c2f54f57866ea7cdce79bc2e67162e37906a6820614fbc57324940"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani2_Hit_v4_rr2_Sum.wav",
+      "bytes": 1805072,
+      "sha256": "d2a6e02a97f484147ab52e779477398e9a91a408fe455df7ff203996dd3adc81"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani3_Hit_v1_rr1_Sum.wav",
+      "bytes": 929172,
+      "sha256": "00319863ade67b49ec64566eecc801ac7c95e101860b7bb3263f25c7d6757392"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani3_Hit_v1_rr2_Sum.wav",
+      "bytes": 1434376,
+      "sha256": "cee412e52e189f4b893431a3efc6737b8221efd3c113a4ea9aaeeed57721be23"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani3_Hit_v3_rr1_Sum.wav",
+      "bytes": 1608252,
+      "sha256": "46cd2ba3798f9e3a6be515b13dbc37d2ef65c82afb0d0e9e34121e4524bfcd3a"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani3_Hit_v3_rr2_Sum.wav",
+      "bytes": 1474164,
+      "sha256": "8eb961265ed1e07249dd2fc164f20b82f3e544c3e19ab3c9efef43a51e1c9575"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani3_Hit_v4_rr1_Sum.wav",
+      "bytes": 1813928,
+      "sha256": "59a58eb828dc109e3cc7b7744a0f84e47182cadf2cf548a0c0b94ae5581cdc60"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani3_Hit_v4_rr2_Sum.wav",
+      "bytes": 1844480,
+      "sha256": "cd85951fa4e74ce9128bc10c58365538b041d71dd28de21ac21048ab7a8f37dd"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani4_Hit_v1_rr1_Sum.wav",
+      "bytes": 1183312,
+      "sha256": "0c2929ae4fa59e0cbd2a43ee1abb187cce99dc41713bcb012ea71eac39fe6c35"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani4_Hit_v1_rr2_Sum.wav",
+      "bytes": 751128,
+      "sha256": "a9e2679b5fad104b051375c877977a28a75cf1cb04337186c204c8baffc39a11"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani4_Hit_v3_rr1_Sum.wav",
+      "bytes": 1012976,
+      "sha256": "05170757d30297aa680bfbc082c6e438deb1d1d72c5e757610d0b1bbd525968f"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani4_Hit_v3_rr2_Sum.wav",
+      "bytes": 1278328,
+      "sha256": "ff4a34bdf6c98489dbe496c92671020bac7b3e92331f310fc8542085fb75d014"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani4_Hit_v4_rr1_Sum.wav",
+      "bytes": 1599356,
+      "sha256": "71161169062458913095b6d87d0eacb1bc344622e28832fef9458c7f142c8860"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani4_Hit_v4_rr2_Sum.wav",
+      "bytes": 1765536,
+      "sha256": "fa78ee249f1011bf5a66522bfa8387eb0cc952a637701fc924ed98e0a9b51600"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani5_Hit_v1_rr1_Sum.wav",
+      "bytes": 327568,
+      "sha256": "c6fc35883ec63df83250b9eb92b05763504a3a484fffad5e82eb95945cab32cf"
+    },
+    {
+      "path": "Percussion/Timpani/Timpani5_Hit_v1_rr2_Sum.wav",
+      "bytes": 262192,
+      "sha256": "612b09a6c13aaa3e32ce4849564c150001c859a6fad0e1c90e0df79d7509cca1"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_A2_v1_1.wav",
+      "bytes": 2336738,
+      "sha256": "c97a003184fdcb153d6b6c0bae8d82a90592a1b04b06bd7caaeda8b9776d5284"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_B1_v1_1.wav",
+      "bytes": 2372492,
+      "sha256": "4f95c087c4b8d87ee591e9d39c3c9caf085c6f1b9125eac3ca9e4e637da628ee"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_B3_v1_1.wav",
+      "bytes": 1690082,
+      "sha256": "bd25d66c1c4e73f5827bf3b931244e51ec8388594d8004529a762be81258097f"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_C1_v1_1.wav",
+      "bytes": 2347376,
+      "sha256": "abdcea431f384e135c469b0f3e4ac2a437f282f521dc5bcbe22abc221536e8de"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_C3_v1_1.wav",
+      "bytes": 2444174,
+      "sha256": "a614ee7ca821b44660236e47b89620cf914ec6ad27a99bc0d9764f47dbe512e1"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_D2_v1_1.wav",
+      "bytes": 2550956,
+      "sha256": "e8640dec9febc6e39fcf06b19d2c95a85d5ff8c38f13c9879e69f551eaf38ab8"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_D4_v1_1.wav",
+      "bytes": 2153228,
+      "sha256": "b4aa3a7fec1f0e783fa560f493868c17045feb271738e3d6834d1b00594b1c38"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_E1_v1_1.wav",
+      "bytes": 2468348,
+      "sha256": "de31a61b02d4e1d5a79b8bc432b0f35fe2e434290ad34402cc0f2dd7dc278cde"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_E3_v1_1.wav",
+      "bytes": 2456672,
+      "sha256": "d2f961e30bf64021cf4acbd88e0e7a1fd1840943ae78c62a711bcce3d109216e"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_F2_v1_1.wav",
+      "bytes": 2186012,
+      "sha256": "162054eab4ba118924f8f8986cf1b17ccfd65211d1945743ffbae30b4953f901"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_F4_v1_1.wav",
+      "bytes": 1922948,
+      "sha256": "a9888547b4b684c7649a882e693d61964848f18401a18e4646a8449b40c08bad"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_G1_v1_1.wav",
+      "bytes": 2161700,
+      "sha256": "9e5d24e8e28d6c7f650f9bb2b33d43c13e341a8bd33124c64e23881378b181ba"
+    },
+    {
+      "path": "Strings/Cello Section/susvib/susvib_G3_v1_1.wav",
+      "bytes": 2431598,
+      "sha256": "8d658346b8d2054fd534b3222b5d7a23196d22a83a68c3a04ffb76b21853a3db"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_A2_mf.wav",
+      "bytes": 2007670,
+      "sha256": "1df9f4d138ca3931fcb458bcdf01304cadf2e5f4eef67bbc17b0e42c0e60fce6"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_A4_mf.wav",
+      "bytes": 2143618,
+      "sha256": "3665f3975cad4a33f46784aa4f896f4b4319ba2b7831e892d975bc38c9f09f23"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_A6_mf.wav",
+      "bytes": 636870,
+      "sha256": "4605355d22fae6f58190bf0d033d2ebdd745d63e2e43204d6f41ad27e4f09af0"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_B1_mf.wav",
+      "bytes": 2284022,
+      "sha256": "284034807efbb429cb63f6fb744834b18e6281a4914e6460de0a5818b5d0d0e6"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_B3_mf.wav",
+      "bytes": 1981130,
+      "sha256": "f6f71be8c640822ef48a448b245585659acdfcc7ed5774e10f37be2fc02fcab4"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_B5_mf.wav",
+      "bytes": 779058,
+      "sha256": "f2757b674c6b7301bed52e17a1ae3e3d34d628b3f7edc5773ebb25798d2541f7"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_B6_mf.wav",
+      "bytes": 483966,
+      "sha256": "720e56b99f84d4ef1b9bc8cd3c217170320f523edb68488af3da76d2217e16f7"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_C3_mf.wav",
+      "bytes": 1586172,
+      "sha256": "e5d232771704e140959819de8cf2a3e0ba49d021ca77354c42664ce4fce6d9f3"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_C5_mf.wav",
+      "bytes": 1237142,
+      "sha256": "7c8b862f6fd3f1442ed87537af976d84bda8c05a5b4900e8907d570b5202a517"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_D2_mf.wav",
+      "bytes": 1741118,
+      "sha256": "b9cbdc08e43fc0b28ac70246df991cb390f5cbd7f31519b3cc7f70d283b70566"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_D4_mf.wav",
+      "bytes": 1921690,
+      "sha256": "ebfde8aab4411019e37e3426f4dd88d6a52a38c2d0261d7f10ec63d8ff584dc7"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_D6_mf.wav",
+      "bytes": 687750,
+      "sha256": "b040b61fb279efa1a9b9c60dcbd8626a37f57ffb30f3b50747a2123ee4db5bd2"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_D7_f.wav",
+      "bytes": 396134,
+      "sha256": "87ca6f45c5c242d9cd595911278290a4abdba587f71ed263acb1650236fcd4a7"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_E1_f.wav",
+      "bytes": 4001190,
+      "sha256": "70f534627d6155bab46262e0383a8b431c25fde78ca029947d453748b1f73038"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_E3_mf.wav",
+      "bytes": 2461138,
+      "sha256": "aafa9d41ec0f77da8f2891055af8b3f9557e0ba1f1df93d53ae6e1fda07afae5"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_E5_mf.wav",
+      "bytes": 1171586,
+      "sha256": "95dd9ddb0bd15bee7687906e00f25aafcaa43020cc9501f0e8b6cabf0e9a53ec"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_F2_mf.wav",
+      "bytes": 3086590,
+      "sha256": "d5c0fb42c176af334fd6f6d1b97858556619c51e177efb5b0c6c23bc19ce6dad"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_F4_mf.wav",
+      "bytes": 1913498,
+      "sha256": "db27ebbb37334c10e06f2ae63f4d9ff555e4d11704fcc6f0bcf503863867e577"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_F6_mf.wav",
+      "bytes": 413126,
+      "sha256": "7cf4c012542df737be39900af262fdd980681956e734f43af106718184f34213"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_F7_f.wav",
+      "bytes": 332482,
+      "sha256": "638b40d6c6c674257daa89b0b1e5108973ccbf13d7cc282e21266d3fb71500c5"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_G1_mp.wav",
+      "bytes": 1189890,
+      "sha256": "f9fa1a6ea784320125fef31495ff223ceea675641d0728c2a33b431c06a78bfb"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_G3_mf.wav",
+      "bytes": 1806874,
+      "sha256": "62600eb1b37bc2829ca65351f7ca7e506c9ae472abd5bea0765a8b8fa7df2772"
+    },
+    {
+      "path": "Strings/Harp/KSHarp_G5_mf.wav",
+      "bytes": 1049778,
+      "sha256": "f2004dfc617997fbabc6f849add2af06f4f859361c44a8fca0f993dc7f999540"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_A#0_v1_rr1.wav",
+      "bytes": 1336820,
+      "sha256": "bfed36e434e4f8a10abecf9ef8875a409ed32a698ab0faad7e253337c7bc6bf6"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_A1_v1_rr1.wav",
+      "bytes": 2131692,
+      "sha256": "c1594db9e43851d429e34086cf16944b5a9f5e48d544d10ebd17a4f682d376e1"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_B2_v1_rr1.wav",
+      "bytes": 1246160,
+      "sha256": "c7d2fcd4794786c654c930b86909cf3ae3e09df37ec1120e13d13a8fbee23f9f"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_C#2_v1_rr1.wav",
+      "bytes": 1349416,
+      "sha256": "083751a59f87ed5ded98d073226ea975441748ee5a2a1647784029cb60cb4570"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_C1_v1_rr1.wav",
+      "bytes": 1835940,
+      "sha256": "35031ed9356f18b2ad4de86fff3192fe0cbcf79d5d63c079285246b51472f280"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_D1_v1_rr1.wav",
+      "bytes": 3057536,
+      "sha256": "02aafdc953cd07649f4e0be571a5569c80665cf61ac6062b6bae22c302289d2f"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_E1_v1_rr1.wav",
+      "bytes": 2429548,
+      "sha256": "ffe06f830d10a24f04beb4683d5aae7516810d27c38dba3cc7a55d1c785840cd"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_E2_v1_rr1.wav",
+      "bytes": 1533524,
+      "sha256": "1f4f7b8718c3e3562f4dd851981ceccf2200741573adc24d3f8bfe9fc3087123"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_F#0_v1_rr1.wav",
+      "bytes": 1597380,
+      "sha256": "b965551477a816f38305f65b4cfa4595ca5c0d38e92c8b6128f070eb768671b5"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_F#1_v1_rr1.wav",
+      "bytes": 1153568,
+      "sha256": "dbf26625b7e12392fb8222f75b82fc2e48d3121cbb9b7b7ebe6361225b9a2313"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_G#1_v1_rr1.wav",
+      "bytes": 1256636,
+      "sha256": "601eda5755db1d15efa3203d457a8c43eb26f85ffe19455bf4efa895ed54adc6"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_G#2_v1_rr1.wav",
+      "bytes": 1352760,
+      "sha256": "ddde6da7902a3b00d5086bce6604ce1c4b6b6a45e81cff8ea2225420ab3d397d"
+    },
+    {
+      "path": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_G0_v1_rr1.wav",
+      "bytes": 1583696,
+      "sha256": "b73fed4cfd524f10eb2879032a44e079346d3b88ed6e5a7f776bc2a11103daab"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_A2_v2_rr1.wav",
+      "bytes": 347066,
+      "sha256": "e90695e2a2a3d6ba9a043c8cfa9317fb6a9e6273f50e1fabdd40f55c4b137eba"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_A3_v2_rr1.wav",
+      "bytes": 213126,
+      "sha256": "ce5d025e7c2ac71e220a3f6487c5a2ce431a150e808c93276570f19536568a5e"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_B2_v2_rr1.wav",
+      "bytes": 160826,
+      "sha256": "ee4aa779919171e33053b71c02691f026fd0b13c299da86f84c066e52ce3a4ec"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_B4_v2_rr1.wav",
+      "bytes": 199926,
+      "sha256": "d1495f4eaff7b3e4bd8d86b886dc81ccb52b113fb93630e8f68792ed452dc822"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_C4_v2_rr1.wav",
+      "bytes": 167454,
+      "sha256": "a14e9795677e0c418f1e18f7b640bc27b8cb3aef4cfef766e18caf38549ffe56"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_D3_v2_rr1.wav",
+      "bytes": 311850,
+      "sha256": "36105c7bc208181a10b41a468aab1e8ca4f31a9eae43834dd90d8d533a48e650"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_D5_v2_rr1.wav",
+      "bytes": 136734,
+      "sha256": "959a93165a9271657b4bc97c75eded62deab37b03128f71f0f1f4c8903e50b84"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_E4_v2_rr1.wav",
+      "bytes": 106314,
+      "sha256": "db063e7e21abb2d3271d0e96068601fbb48a91f2f0bfde8dea773ce1a6bacfb0"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_F#3_v2_rr1.wav",
+      "bytes": 166870,
+      "sha256": "b24b5f833660b73c9ea8beade5faa73989a7016916cf5f1bece93bdb4938b221"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_G2_v2_rr1.wav",
+      "bytes": 435542,
+      "sha256": "a6bee065f0a171d3fabc42b218e941f66916a6de53a55809da724eeefeae2653"
+    },
+    {
+      "path": "Strings/Violin Section/Spic/VlnEns_Spic_G4_v2_rr1.wav",
+      "bytes": 162898,
+      "sha256": "3345451be62b9bdfbbf6bb03f22f410484abb75585992336d530215fc4df7141"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_A2_v1.wav",
+      "bytes": 1979216,
+      "sha256": "5b3ff9f991642a6dc2fdad56a7d94f581077d2c4082cc1ed89156737716ff22c"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_A3_v1.wav",
+      "bytes": 1890316,
+      "sha256": "72817a53dfd2eb61eca94658c14e1cab6017629ca2f27bab8e394c6675bfaad7"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_B2_v1.wav",
+      "bytes": 2314360,
+      "sha256": "1a873970a86da78ed8c9aa068303958496c34eee6fa94fcab39d499dbdfb7826"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_B4_v1.wav",
+      "bytes": 2056964,
+      "sha256": "ec4cea41ac77f251bf5f4158fe9cbeeae13755e3785106e505808de18fdddc0d"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_C4_v1.wav",
+      "bytes": 2063320,
+      "sha256": "c07edd5b2119fa1da2207aba996961b50dd616f69bbcf2300ab271bc6c16239f"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_D3_v1.wav",
+      "bytes": 2061808,
+      "sha256": "583e660bc5daa4e094aef5fc014fbb92751040be8741ed7a16847306a1fe0a99"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_D5_v1.wav",
+      "bytes": 2116352,
+      "sha256": "f8d870457826c94270b9c3ead8e8ec02cb7e6c4a3481cded055641b7fab7df62"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_E4_v1.wav",
+      "bytes": 2315540,
+      "sha256": "787fb4bcfb47d5c88ee1573c8db15f32d345386301be4a8eea6a825847413ae2"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_F#3_v1.wav",
+      "bytes": 1585612,
+      "sha256": "8dc13d197373f0d1fe1b0744de57796800bde372906d3667398c55d473a383ea"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_G2_v1.wav",
+      "bytes": 2341712,
+      "sha256": "feb96c5064fbef43087c495d61a9cab9f70ff1be5b22905147c1f86d5f89547c"
+    },
+    {
+      "path": "Strings/Violin Section/susVib/VlnEns_susVib_G4_v1.wav",
+      "bytes": 2330236,
+      "sha256": "ed2a89cf254432d2af073699fa43ebfa16cfbc5552c7fc964a184fc434eaaa39"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum2_pp_1.wav",
+      "bytes": 925666,
+      "sha256": "78ea19cb270fa5160512e04e04ef040b51a9194c04c4769d691dd47dd767d51e"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum2_pp_2.wav",
+      "bytes": 995524,
+      "sha256": "435f7192545f2873ab48c457c2b3be1c87a9cf46433aaab55243e19d12d877a7"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum2_ppp_1.wav",
+      "bytes": 611302,
+      "sha256": "7eeafc632b76e976ab2a9f0e2b1fad3dab10cc09d8c42bde8badd82d3b844b66"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum2_ppp_2.wav",
+      "bytes": 855808,
+      "sha256": "b3fa088b72b7433dde3b166a66cef646f134f1a8f348031391143cec427be160"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum3_fff_1.wav",
+      "bytes": 1938610,
+      "sha256": "d4707c2858ab6fdc814815c7f8d9e0beab09c3a3a88f2a337720444291352ba4"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum3_mp_1.wav",
+      "bytes": 1807624,
+      "sha256": "a8e08ac626c084c84ca70f3248e5d575468065e59f510d2555c61c5597a68cb6"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum3_p_1.wav",
+      "bytes": 1947340,
+      "sha256": "fb7b6f9b3ebf82d5cc7235921654a1c1a163c255d56533fd503acbc00ed5e46f"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum3_ppp_1.wav",
+      "bytes": 1755232,
+      "sha256": "01257cb143c78b626898a81352a2e3de04d768dbf587cfc5a8feeb43c47a5f64"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_f_1.wav",
+      "bytes": 2275664,
+      "sha256": "e9a83b08229d395aacd76d8d2d7796d08c449a27be86aea0e9e6829f96611eec"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_f_2.wav",
+      "bytes": 1921070,
+      "sha256": "097020f9cad23da9e2afee7eebdecbe54c6b7e57d621951eeb2cf535d80cb988"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_ff_1.wav",
+      "bytes": 1763962,
+      "sha256": "549c1190c3da0a8a8f252f427f7ed03e22efc2e1f62ae86b01f6c3d27eca9bf0"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_fff_1.wav",
+      "bytes": 1991002,
+      "sha256": "b4b563c46d784d5a136db30d0ecd7d70dbb977f3cd80ad0eb72414afbf481095"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_fff_2.wav",
+      "bytes": 2104522,
+      "sha256": "c3913ee030e74ca42a010054fe404ad851585cfa009339e2cb0c6ad61d6b2e24"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_mp_1.wav",
+      "bytes": 1711570,
+      "sha256": "68d537aba29277925f028eab9d3494a9316b48c2ddf3031f3af5460c150a1cb0"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_mp_2.wav",
+      "bytes": 1475800,
+      "sha256": "d30e69f157524135e06a080ec3f24c473751e54c08b4a3b3413e2e37e5a5a4ec"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_muted_ff_1.wav",
+      "bytes": 785950,
+      "sha256": "e480c320e2a256870372e64babfb5a07b28920370013717b8061701e0ee9b216"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_muted_fff_1.wav",
+      "bytes": 934396,
+      "sha256": "cfc222225c940e3450a3d59031e2de3329fe3ecee9ddcf07f8f064a69dbe3484"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_muted_fff_2.wav",
+      "bytes": 1170166,
+      "sha256": "11fa78b8273f871df970ad256395067e55c66afd73e399b1b6f0dfaf279ca50b"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_muted_mf_1.wav",
+      "bytes": 768484,
+      "sha256": "7b8702ec8eeb6efef65d6e50282ab766ea867b7027f242f67d252e02add7537e"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_muted_mp_1.wav",
+      "bytes": 829612,
+      "sha256": "62d8589563678873e7f9b7d1dbd41b4f52fd5bd47a5aa2a3b194a732c4bff31e"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_muted_mp_2.wav",
+      "bytes": 593836,
+      "sha256": "5df82fd7340a80a676aff13d2d44ffe2554008b7ecda813b237499d15d65a09a"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_muted_pp_1.wav",
+      "bytes": 262012,
+      "sha256": "b414b22b4487d0af4d23071014ea693ddaf2fe01b83c028f075453c1baa23cf7"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_muted_pp_2.wav",
+      "bytes": 165958,
+      "sha256": "c77c4fc2d465b1784e020c4a4af2f140d7da7143cc61da3881959850b5877c71"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/bass/bdrum_muted_pp_3.wav",
+      "bytes": 183424,
+      "sha256": "d275c62a747a76eedaac83a3820246823b2c2e3dfbae0cdf1700ad3644f8b08d"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/other/ethnic/giant/mallet/EthnicLargeMallet_hit_f_1.wav",
+      "bytes": 399286,
+      "sha256": "c86d5c878870529a8cec65d101849c8b87daf80c0360bebe2842927c1dfb9da1"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/other/ethnic/giant/mallet/EthnicLargeMallet_hit_ff_1.wav",
+      "bytes": 396166,
+      "sha256": "6c31f340ef3da62b99759ad2dadfded7e58086d3dc7b710eaaf7eb03d67db6d1"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/other/ethnic/giant/mallet/EthnicLargeMallet_hit_ff_2.wav",
+      "bytes": 411760,
+      "sha256": "85217736cdb32f317863d2c7704c2d2cb0613a89609161d75ae0f3876b857d0c"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/other/ethnic/giant/mallet/EthnicLargeMallet_hit_mf_1.wav",
+      "bytes": 371212,
+      "sha256": "11fbb9f2ba0df0a8069efcaa7d228bb12b74bcfc31fd88bd662d53bc5d5eb011"
+    },
+    {
+      "path": "VSCO 1 Percussion/drums/other/ethnic/giant/mallet/EthnicLargeMallet_hit_pp_1.wav",
+      "bytes": 258922,
+      "sha256": "118b1a8af1cdcdc6c3fdebaf1a9e3439a8d305bf5a650ea11fb20a2b6129a532"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_1.wav",
+      "bytes": 853732,
+      "sha256": "88f01ba79b752fd84198aec2b5ddfd6ee7a6587078dfd8b9bb03753b5199f14d"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_2.wav",
+      "bytes": 907936,
+      "sha256": "cf6bff4bb2c63fa42e668858bfffb6adbf2d6b81591fc24a98c60d653b8b11d5"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_3.wav",
+      "bytes": 1002790,
+      "sha256": "01b494f694b44e69c5f7f31f362ad7e0de6ae2589f38cb084956fc1980c555ef"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_continuous.wav",
+      "bytes": 6626284,
+      "sha256": "bed0baae2b4768c498c7e181b93c0e91c7a6fa3bb025bc8542d327c5cc743cc9"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_FX_scrape_rapid.wav",
+      "bytes": 1300906,
+      "sha256": "1dfbb36b90f4d6e213b1b192894d332b7b9ebf1de37a9a3e7c27d908ebb4a12f"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_hardmall_f.wav",
+      "bytes": 3577402,
+      "sha256": "3dc25cb3980d8dd4911ed4a3aadf0b811a2cc1dd924dee9f1b646b09543f1eac"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_hardmall_fff.wav",
+      "bytes": 2520454,
+      "sha256": "8a90fcb8a2ae0c962612adf7a994e17eb47fc2d1744c66ae3bbd135b98ddac22"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_hardmall_mf.wav",
+      "bytes": 3929716,
+      "sha256": "68f85254c1220e98f0e42be7d4f3b0cdfc3ec96a6fddc834d7321ba7169fb693"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_1.wav",
+      "bytes": 840184,
+      "sha256": "11abcf76b08eff4a66b79f7fea48b58a55245d75a39b4ecde012fd4b47591d1b"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_f.wav",
+      "bytes": 1422862,
+      "sha256": "52c7c60269e7e5723bd5d2418064f2979f311765bc2408946f193fc7608cabea"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_ff.wav",
+      "bytes": 1680322,
+      "sha256": "d9e100ac4e793e9bf97010dd7bcc8e0c5a1927c30c4ad21e8f1e34e7569c2ef4"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_ff_2.wav",
+      "bytes": 1504162,
+      "sha256": "911513bff75eb5faf26cfb87b16382e4ba4bbf54b228a6f00c657c6092dd6106"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_fff.wav",
+      "bytes": 1951330,
+      "sha256": "a8eacf62e44f203b22b3b899440baf45f20815fe21f3de3e46cd1723a21c980d"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_metal_2_mf.wav",
+      "bytes": 1084090,
+      "sha256": "5572b36515276a6ea0c6e3c5ea15d83a90e901981e92603deb83a94677d2c2c2"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_f.wav",
+      "bytes": 1490614,
+      "sha256": "fcb49198999687cb567612408e8e384a22f3db14ac91b7d830b9fc113384f709"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_ff.wav",
+      "bytes": 4729204,
+      "sha256": "9e3d1d825eee682af457a444ab7a92d9f72bb0d7e7853d2abf730eff47ece3a6"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_mp.wav",
+      "bytes": 4661452,
+      "sha256": "4d07cc814de632b754a44c6258bbd1fc1aaa23c833f308a4a1f8699eaa37c081"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_p.wav",
+      "bytes": 1504156,
+      "sha256": "52c773fb5fcff708f2bafddd9c3ca578a3fc78c0d5db6687d6bfdc585a483e66"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll1.wav",
+      "bytes": 2127484,
+      "sha256": "9d7419f22aca4e6f6acde257df9d27f803cf90ea61deb27d2b358ea6eda88ab2"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll2_cresc.wav",
+      "bytes": 2547556,
+      "sha256": "2cf99abadc7afc632a035d5c8f61b2d4ba85a94d0d2905c5a68d99ba44e4c983"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll3_ff.wav",
+      "bytes": 4390438,
+      "sha256": "c7c456068eafe48c20eee2b36983d32ec1264ca6e05c977c3fbbfa51301df6ec"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll4_fff_long.wav",
+      "bytes": 4214278,
+      "sha256": "4d86b32811ef7dc2550dda35a0275e5e972955a104245787aa49325bda1b29ed"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_softmall_roll5_long_p.wav",
+      "bytes": 5840350,
+      "sha256": "fbda78d128250efeef0af914c9450e2371d2bd406a10c27455d947751848ac09"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Cymbals/susp/susp_hit_woodmall_f.wav",
+      "bytes": 1951330,
+      "sha256": "208623f4f99b3891f66a4db0ca5ea17859314662b9f2aebe503ffceecd1ce0db"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_f.wav",
+      "bytes": 8040220,
+      "sha256": "a8542773d296434a33105c9522f87c39a62ebd07bf5831a0fb8c34a6c1a93c37"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_ff.wav",
+      "bytes": 7279672,
+      "sha256": "517467e937ecb8943020b770ab81b2d0170ba3adee417044316540cb754db654"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_ff_hard.wav",
+      "bytes": 6519106,
+      "sha256": "180587786586c2b704c77fd01e5a3a4a60421f8d2fbfc08b7a8942adbf1da0e4"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_fff.wav",
+      "bytes": 6024142,
+      "sha256": "616d122d6ddff39c646732c9b01247166270a4d0018b2f6bc96e1eebd94fc797"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_mf.wav",
+      "bytes": 7750492,
+      "sha256": "a34011bd6323a43d9b9a245f75c533c6ec0c68a38cd3e7ce998e52d3a4fcb4c7"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_mf_2.wav",
+      "bytes": 4068424,
+      "sha256": "84f50cc2e1eefbaabdb74ea92b49770cd12cf33e1c6c4c15a8b677541d3f8e09"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_mf_3.wav",
+      "bytes": 2849122,
+      "sha256": "edea798ff8c3c5cf7d44ce40a47e8a24536a5796bf1120ae2686d561ae223878"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_mp-mf.wav",
+      "bytes": 5408452,
+      "sha256": "790247a5030ff3c1a188691c1772b7c50d572072ac53d00fdff4f5b9f6737036"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_mp.wav",
+      "bytes": 6012070,
+      "sha256": "c7bed5739cfcdfc5d61942aeb7119c26724b4c25357c811a1164deed6a3446f6"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_mp_hard.wav",
+      "bytes": 5082502,
+      "sha256": "f1fcb91f533485b8c8a9366e73486644104324ab84b82fbd9181332e36c9310e"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_p.wav",
+      "bytes": 5415358,
+      "sha256": "fd0e5a733a72610d24c1d314d9bc3a74542ab9be959cff8912bdc597bd16bbc5"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_p_2.wav",
+      "bytes": 4056352,
+      "sha256": "0213af700acb096a7150893466aa2481ab3ddaf85bd612b5130596fd7f28f563"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_p_hard.wav",
+      "bytes": 4889344,
+      "sha256": "c4f34ac1a669472e05c894fe698ae2a11ff57b2ec3b16c5480e25e1a9d783231"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_p_hard2.wav",
+      "bytes": 5360164,
+      "sha256": "ce4f0638e83fd176c9f6e655de1779663cd0bd054638fedda6cf1a90263b12db"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_pp.wav",
+      "bytes": 2849116,
+      "sha256": "bb39ae973a52a6596054dd89fc3f9557247cbf20ed976aff7627bd7b79e61f53"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_ppp.wav",
+      "bytes": 4576942,
+      "sha256": "2471f8ad683ee974260eac9c3bd9bad43254e5b4d483f7329df16c7f753914ec"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_hit_pppp.wav",
+      "bytes": 4949704,
+      "sha256": "1e4e3a77522017dd48a2fa5b521e217dd4957b153b00dc8172460012a2a6db78"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_roll_long_f.wav",
+      "bytes": 7086508,
+      "sha256": "39c981a05592a3dcfd75d84a36e48db8c7c05ddad57c5cc4d21566b927b55744"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_roll_long_ff.wav",
+      "bytes": 8016328,
+      "sha256": "08a1736a8d3f30ff87bcd8044dad3c66b29a79c2a23cfe774ca5b40b9860672c"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_roll_medium_f.wav",
+      "bytes": 7327960,
+      "sha256": "fe88770daa8b4120e805ade47d736a3a3dd7917ff6cf2a2d4d713621c49b0518"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_roll_medium_ff.wav",
+      "bytes": 5915488,
+      "sha256": "34e7ee213c3b1ed1c5752ca1f266ebea68872f98830107517fc60c7790581f66"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_scrape_1.wav",
+      "bytes": 1678102,
+      "sha256": "da6da3e55cc9f58246282c31b32029e1ffe051ea3ef94ac79486dc8c8653eac5"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_scrape_2.wav",
+      "bytes": 1605664,
+      "sha256": "822d5c389bdc621471bd812e59c7bdaf0253fe25b8502d795292b552e7b9b66f"
+    },
+    {
+      "path": "VSCO 1 Percussion/varMetal/Gong/gong_scrape_3.wav",
+      "bytes": 2197216,
+      "sha256": "a18c13540b6dad8eb8943c12181d873e312b731acbc27ec5e53f3251e34be60c"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_A3_v1_1.wav",
+      "bytes": 2706216,
+      "sha256": "6fc8d707afddfaaf3003551b95a83b52f514adbe488bfea1c8c5250080a07278"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_A4_v1_1.wav",
+      "bytes": 3460842,
+      "sha256": "c8fd15bb561dbdac6d35ffd9c5e49413131d96f8948d5bdf03d4a03fa344c5c0"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_A5_v1_1.wav",
+      "bytes": 2885970,
+      "sha256": "d35c9b6cc3fa887cb93042b901ddaa6a05c72eb9040bd125d82a0940366f9022"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_C3_v1_1.wav",
+      "bytes": 2642490,
+      "sha256": "4f221909317e257e4d0bc49f10479643c80cb213a0486455c1bdc1d6ed13a450"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_C4_v1_1.wav",
+      "bytes": 2722056,
+      "sha256": "105a6dbced98de7ae04a317bdd3ba1a5c6b90dc94034439b68cce6635e2781df"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_C5_v1_1.wav",
+      "bytes": 2491416,
+      "sha256": "46a335b804c9b2f081efa8e6c695f155d05b3700c69bf73950cc9cb40ed53d41"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_C6_v1_1.wav",
+      "bytes": 1618152,
+      "sha256": "0d1c902873564fac780ded78ce54788745bc81b0b3113b311169cfee9fdf9357"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_E3_v1_1.wav",
+      "bytes": 2874126,
+      "sha256": "87c667c2af888ed86dff87f2452248de3e3d958fc93848a4426b7c16f85f09da"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_E4_v1_1.wav",
+      "bytes": 2591256,
+      "sha256": "b609d37fb577e2a0f64f20800fba4bed067151375349bf713c0d4e803f862580"
+    },
+    {
+      "path": "Woodwinds/Flute/susNV/LDFlute_susNV_E5_v1_1.wav",
+      "bytes": 2956800,
+      "sha256": "660df172b551dfd7859dade283cb1e8dd6eac8095ccaabb5b19416caaacdef87"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_A3_v1_1.wav",
+      "bytes": 2117124,
+      "sha256": "4ea04a7a2ba152752e1b475798619a62f2546f54972caa6ddcd88f29a2046c81"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_A4_v1_1.wav",
+      "bytes": 1942296,
+      "sha256": "cf3c1c30943b8b8ef8b5b9ced89430c014987a037204098d002f86e424391ba9"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_A5_v1_1.wav",
+      "bytes": 1457676,
+      "sha256": "067a42df19ec1864389c28235a6794033471c0ffa3d7e16637396a505ca7d7fd"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_C3_v1_1.wav",
+      "bytes": 2088144,
+      "sha256": "073631c8442b275d803e608e840c2ce6cad3b08320018e08510cf3cb57373154"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_C4_v1_1.wav",
+      "bytes": 2009832,
+      "sha256": "e88a0ff35e6b8c29fd88bc778a4c817d955b2c3a2934def97a7d093b72e2ae97"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_C5_v1_1.wav",
+      "bytes": 1930938,
+      "sha256": "ecb78c59069866ea7c3327594851827cd2f50c5d411aad422269a88e53614fbe"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_C6_v1_1.wav",
+      "bytes": 1260120,
+      "sha256": "0ead172a529daad09ecbab66027027b92189afe79f50f71dc20ee58ca66c9135"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_E3_v1_1.wav",
+      "bytes": 2802054,
+      "sha256": "831386b21a704a5fccf204b18a536d638ea191f1b56662200192241215e21abd"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_E4_v1_1.wav",
+      "bytes": 2144718,
+      "sha256": "83d4eed0c54ebfe25fe9dfb0475fb90a88a43d11777bc2afac879b8b695e494c"
+    },
+    {
+      "path": "Woodwinds/Flute/susvib/LDFlute_susvib_E5_v1_1.wav",
+      "bytes": 1586118,
+      "sha256": "6eab0a4827c43b49415cb0c846affd40e9555c884c74683422554923faf17681"
+    }
+  ]
+}

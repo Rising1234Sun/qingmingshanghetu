@@ -1,0 +1,20 @@
+{
+  "raw": "入画汴京_网页实录_2026-09-05T03-40-17-075Z.mp4",
+  "video": "入画汴京_网页版展示.mp4",
+  "metadata": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'output/web/入画汴京_网页实录_2026-09-05T03-40-17-075Z.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso6iso2avc1mp41\n    creation_time   : 2026-09-05T03:39:21.000000Z\n  Duration: 00:00:59.95, start: 0.000000, bitrate: 11430 kb/s\n  Stream #0:0[0x1](und): Video: h264 (Baseline) (avc1 / 0x31637661), yuv420p(tv, smpte170m/smpte170m/bt709, progressive), 1080x1920, 11258 kb/s, SAR 1:1 DAR 9:16, 24.06 fps, 24 tbr, 30k tbn (default)\n      Metadata:\n        creation_time   : 2026-09-05T03:39:21.000000Z\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : AVC1 Coding\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 193 kb/s (default)\n      Metadata:\n        creation_time   : 2026-09-05T03:39:21.000000Z\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\nAt least one output file must be specified\n",
+  "video_processing": "视频码流直接复制，无补帧、无 AI 增强；仅进行音频响度整理和 MP4 faststart 封装。",
+  "decode_errors": "",
+  "audio_final": {
+    "input_i": "-14.12",
+    "input_tp": "-1.52",
+    "input_lra": "8.50",
+    "input_thresh": "-24.32",
+    "output_i": "-14.00",
+    "output_tp": "-1.61",
+    "output_lra": "4.40",
+    "output_thresh": "-24.07",
+    "normalization_type": "dynamic",
+    "target_offset": "0.00"
+  },
+  "sha256": "51dc7662b668297d433b3bfeaa8d5569ca1feb153f93b9869c2c9317402a3974"
+}
