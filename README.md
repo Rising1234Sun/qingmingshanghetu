@@ -6,7 +6,7 @@
 
 ![实际网页首页，截自原生 4K 网页操作录像](docs/images/网页全貌.jpg)
 
-**[详细提示词](docs/提示词与迭代流程.md) · [部署指南](docs/部署指南.md) · [实现原理](docs/实现原理.md) · [模型与音乐重建](docs/重建指南.md) · [4K 录制与剪辑](docs/录制与视频制作.md)**
+**[在线体验](https://rising1234sun.github.io/qingmingshanghetu/) · [详细提示词](docs/提示词与迭代流程.md) · [部署指南](docs/部署指南.md) · [实现原理](docs/实现原理.md) · [模型与音乐重建](docs/重建指南.md) · [4K 录制与剪辑](docs/录制与视频制作.md)**
 
 ## 可以体验什么
 
